@@ -1,0 +1,23 @@
+# Wireshark temporary files
+*.pcapng.gz
+*.pcap.gz
+*.pcapng.swp
+*.pcap.swp
+
+# Large capture files (Optional)
+# If you have very large captures, you might want to exclude them 
+# and only keep smaller samples in Git.
+# *.pcap
+# *.pcapng
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# Lab notes backups
+*.bak
+*.tmp
+
+# User specific configuration
+.vscode/
+.idea/
