@@ -1,4 +1,4 @@
-# README.md: ARP Analysis Lab
+# ARP Analysis Lab
 
 ## Overview
 In this lab, I analyzed a packet capture containing an **ARP Storm/Sweep**. The purpose was to identify the behavior of the Address Resolution Protocol when a device attempts to map multiple IP addresses on a local network.
