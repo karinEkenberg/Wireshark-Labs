@@ -8,7 +8,6 @@ This repository contains a structured lab environment for analyzing network traf
 
 ## Directory Structure
 Each directory is named after a specific protocol and contains:
-* Packet capture files (.pcap/.pcapng).
 * A local README.md with detailed analysis and findings.
 
 ## Methodology
